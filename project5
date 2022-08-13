@@ -1,0 +1,5 @@
+#!/bin/bash
+#Generate a script tp create a directory and a file inside the directory
+mkdir Etech && cd Etech
+echo “ We are Etech Engineers” >> team3group6
+
